@@ -3,6 +3,9 @@
 *.log
 *.iml
 
+#project specific
+*.db
+
 #metals specific
 .bloop/
 .metals/
